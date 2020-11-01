@@ -1,3 +1,3 @@
-[submodule "themes/dream"]
-	path = themes/dream
+[submodule "site/themes/dream"]
+	path = site/themes/dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream
