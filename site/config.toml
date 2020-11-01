@@ -1,10 +1,86 @@
-baseurl = "/"
+baseurl = "https://maze.pottiri.tech"
 languageCode = "en-us"
 languageLang = "en"
-title = "Word Search Plus"
+title = "Word Search Maze"
 theme = "dream"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+googleAnalytics = "UA-98295641-1"
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+# hasCJKLanguage = true
+
+# Paginate = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  background = "#f6f6f6"
+  #backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  backgroundDark = "black"
+  backgroundImageDark = "/me/background-dark.jpg"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
+  #images = ["me/background.jpg"]
+
+  author = "POTTIRI"
+  description = "POTTIRI"
+  avatar = "/me/me.jpg"
+  headerTitle = "POTTIRI"
+  #motto = ""
+  categoriesLimitInHeader = 6
+  # headerBottomText = ""
+
+  rss = true
+
+  #utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+  
+  email = "pottiridoubleat@gmail.com"
+  twitter = "pottiri_tech"
+  #facebook = ""
+  instagram = "pottiri_tech"
+  # mastodon = ""
+  #linkedin = ""
+  #github = ""
+  #stackoverflow = ""
+  #codepen = ""
+
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+
+  # options
+  showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
