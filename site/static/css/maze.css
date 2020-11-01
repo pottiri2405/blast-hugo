@@ -1,4 +1,7 @@
 @media screen and (max-width: 767px) {
+  .dream-single .cover .cover-img {
+    height: 64px;
+  }
   .dream-grid {
     margin-left: 0.5rem !important;
     margin-right: 0.5rem !important;
