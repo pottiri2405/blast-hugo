@@ -7,13 +7,13 @@ theme = "dream"
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+#disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 googleAnalytics = ""
 
 # disqusShortname = ""
 
-enableRobotsTXT = true
+#enableRobotsTXT = true
 
 hasCJKLanguage = true
 
@@ -27,11 +27,6 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
 
 [params]
   background = "#f6f6f6"
