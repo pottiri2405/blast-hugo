@@ -86,4 +86,4 @@ hasCJKLanguage = true
   hasTwitterEmbed = true
 
   # custom css
-  customCSS = ["css/maze.css"]
+  customCSS = ["/css/maze.css"]
