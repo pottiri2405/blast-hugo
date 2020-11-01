@@ -13,7 +13,7 @@ googleAnalytics = ""
 
 # disqusShortname = ""
 
-# enableRobotsTXT = true
+enableRobotsTXT = true
 
 hasCJKLanguage = true
 
@@ -27,6 +27,11 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
 [params]
   background = "#f6f6f6"
