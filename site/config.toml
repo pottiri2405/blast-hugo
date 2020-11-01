@@ -84,3 +84,6 @@ googleAnalytics = "UA-98295641-1"
   # options
   showSummaryCoverInPost = true
   # hasTwitterEmbed = true
+
+  # custom css
+  css = ["css/maze.css"]
