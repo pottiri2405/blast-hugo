@@ -44,8 +44,8 @@ googleAnalytics = "UA-98295641-1"
 
   author = "POTTIRI"
   description = "POTTIRI"
-  avatar = "/me/me.jpg"
-  headerTitle = "POTTIRI"
+  avatar = "/me/me.png"
+  headerTitle = "Word Search Maze"
   #motto = ""
   categoriesLimitInHeader = 6
   # headerBottomText = ""
@@ -70,7 +70,7 @@ googleAnalytics = "UA-98295641-1"
 
   siteStartYear = 2020
 
-  favicon = "/favicon.ico"
+  favicon = "/me/favicon.ico"
 
   highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
