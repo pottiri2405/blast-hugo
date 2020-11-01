@@ -1,9 +1,14 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
 }
+@media screen and (min-width: 769px) {
+  #dream-save-post-as-img iframe {
+    width: 550px;
+  }
+}
 @media screen and (max-width: 768px) {
   .dream-single .cover .cover-img {
-    height: 64px;
+    height: 0px;
   }
   .dream-grid {
     margin-left: 0.5rem !important;
@@ -12,5 +17,11 @@ body {
   #dream-save-post-as-img {
     padding-left: 0 !important;
     padding-right: 0 !important;
+  }
+  #dream-save-post-as-img p:first-child {
+    text-align: center;
+  }
+  #dream-save-post-as-img iframe {
+    width: 100%;
   }
 }
