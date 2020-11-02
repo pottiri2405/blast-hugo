@@ -30,7 +30,7 @@ hasCJKLanguage = true
 
 [params]
   background = "#f6f6f6"
-  #backgroundImage = "/me/background.jpg"
+  backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
   # dark mode
