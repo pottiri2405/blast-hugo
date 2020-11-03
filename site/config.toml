@@ -1,7 +1,7 @@
-baseurl = "https://maze.pottiri.tech"
+baseurl = "https://wsplus.pottiri.tech"
 # languageCode = "en-us"
 # languageLang = "en"
-title = "Word Search Maze"
+title = "Word Search Plus"
 theme = "dream"
 
 # RSS, categories and tags disabled for an easy start
@@ -44,8 +44,8 @@ hasCJKLanguage = true
 
   author = "POTTIRI"
   description = "POTTIRI"
-  avatar = "/me/me.png"
-  headerTitle = "Word Search Maze"
+  avatar = "/me/me.jpg"
+  headerTitle = "Word Search Plus"
   #motto = ""
   categoriesLimitInHeader = 6
   # headerBottomText = ""
@@ -82,8 +82,8 @@ hasCJKLanguage = true
   enableSearch = true
 
   # options
-  showSummaryCoverInPost = true
+  showSummaryCoverInPost = false
   hasTwitterEmbed = true
 
   # custom css
-  customCSS = ["/css/maze.css"]
+  customCSS = ["/css/customize.css"]
