@@ -1,6 +1,6 @@
 baseurl = "https://maze.pottiri.tech"
-languageCode = "en-us"
-languageLang = "en"
+# languageCode = "en-us"
+# languageLang = "en"
 title = "Word Search Maze"
 theme = "dream"
 
