@@ -29,7 +29,7 @@
     <section class="ui {{ if not .Site.Params.showSummaryCoverInPost }}top {{ end }}attached segment">
       <header>
         <h1 class="ui large header">
-          {{ .Title }}
+          {{ .Site.Params.headerTitle }} | {{ .Title }}
         </h1>
       </header>
 
