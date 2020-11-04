@@ -1,7 +1,7 @@
 baseurl = "https://blast.pottiri.tech"
 languageCode = "ja-jp"
 languageLang = "ja"
-# title = "Cross Blast"
+title = "Cross Blast"
 theme = "dream"
 
 # RSS, categories and tags disabled for an easy start
@@ -43,7 +43,7 @@ hasCJKLanguage = true
   #images = ["me/background.jpg"]
 
   author = "Cross Blast"
-  description = "Cross Blast"
+  description = "秒で考える爆弾パズル"
   avatar = "/me/me.jpg"
   headerTitle = "Cross Blast"
   #motto = ""
@@ -82,7 +82,7 @@ hasCJKLanguage = true
   enableSearch = true
 
   # options
-  showSummaryCoverInPost = true
+  showSummaryCoverInPost = false
   hasTwitterEmbed = true
 
   # custom css
