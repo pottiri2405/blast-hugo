@@ -19,17 +19,13 @@ hasCJKLanguage = true
 
 # Paginate = 4
 
-DefaultContentLanguage = "ja"
+defaultContentLanguage = "ja"
 
 [languages]
-  [languages.en]
-    baseURL = "https://blast-en.pottiri.tech"
-    languageName = "English"
-    weight = 10
-  [languages.ja]
-    baseURL = "https://blast-ja.pottiri.tech"
-    languageName = "日本語"
-    weight = 20
+[languages.ja]
+baseURL = "https://blast.pottiri.tech"
+[languages.en]
+baseURL = "https://blast-en.pottiri.tech"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
