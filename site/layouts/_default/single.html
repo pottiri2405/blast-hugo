@@ -70,7 +70,7 @@
             {{ .Date.Format "Monday, Jan 2, 2006" }}
           {{ end }}
 
-        | {{ .ReadingTime }}{{ i18n "minuteRead" }}
+        <!-- | {{ .ReadingTime }}{{ i18n "minuteRead" }} -->
 
         | {{ i18n "updateAt" }}
           {{ if eq .Site.Language.Lang "zh" }}
