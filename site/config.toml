@@ -23,10 +23,8 @@ defaultContentLanguage = "ja"
 
 [languages]
 [languages.ja]
-# baseURL = "https://blast.pottiri.tech"
 weight = 1
 [languages.en]
-# baseURL = "https://blast-en.pottiri.tech"
 weight = 2
 
 [outputs]
