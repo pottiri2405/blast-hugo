@@ -20,6 +20,7 @@ hasCJKLanguage = true
 # Paginate = 4
 
 defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir= true
 
 [languages]
 [languages.ja]
