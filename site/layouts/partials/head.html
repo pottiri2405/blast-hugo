@@ -8,12 +8,12 @@
 <meta name="description" content="{{ .Summary | plainify }}" />
 <meta itemprop="title" content="{{ .Site.Params.headerTitle }}|{{ .Params.title }}">
 {{ if .Params.Cover }}
-<meta itemprop="image" content="{{ .Params.Cover }}">
+<meta itemprop="image" content="{{ .Params.Cover | absURL }}">
 {{ end }}
 
 <meta property="og:site_name" content="{{ .Site.Params.headerTitle }}|{{ .Site.Params.description }}">
 {{ if .Params.Cover }}
-<meta property="og:image" content="{{ .Params.Cover }}">
+<meta property="og:image" content="{{ .Params.Cover | absURL }}">
 {{ end }}
 <meta property="og:image:alt" content="{{ .Site.Params.headerTitle }}|{{ .Params.title }}">
 
