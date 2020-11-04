@@ -82,7 +82,7 @@ hasCJKLanguage = true
   enableSearch = true
 
   # options
-  showSummaryCoverInPost = false
+  showSummaryCoverInPost = true
   hasTwitterEmbed = true
 
   # custom css
