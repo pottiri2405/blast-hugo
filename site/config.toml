@@ -19,6 +19,8 @@ hasCJKLanguage = true
 
 # Paginate = 4
 
+defaultContentLanguage = "ja"
+
 [languages]
 [languages.ja]
 baseURL = "https://blast.pottiri.tech"
