@@ -1,7 +1,7 @@
 #baseurl = "https://blast.pottiri.tech"
 #languageCode = "ja-jp"
 #languageLang = "ja"
-title = "Cross Blast"
+#title = "Cross Blast"
 theme = "dream"
 
 # RSS, categories and tags disabled for an easy start
@@ -9,7 +9,7 @@ theme = "dream"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 #disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-googleAnalytics = ""
+googleAnalytics = "UA-116125280-1"
 
 # disqusShortname = ""
 
@@ -22,11 +22,21 @@ hasCJKLanguage = true
 defaultContentLanguage = "ja"
 
 [languages]
-[languages.ja]
-baseURL = "https://blast.pottiri.tech"
-
-[languages.en]
-baseURL = "https://blast-en.pottiri.tech"
+  [languages.ja]
+    baseURL = "https://blast.pottiri.tech"
+    title = "クロス・ブラスト"
+    [languages.ja.params]
+      author = "クロス・ブラスト"
+      description = "秒で終わる爆弾パズルゲーム"
+      headerTitle = "クロス・ブラスト"
+      
+  [languages.en]
+    baseURL = "https://blast-en.pottiri.tech"
+    title = "Cross Blast"
+    [languages.en.params]
+      author = "Cross Blast"
+      description = "A puzzle game that ends in an instant"
+      headerTitle = "Cross Blast"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -51,10 +61,10 @@ baseURL = "https://blast-en.pottiri.tech"
 
   #images = ["me/background.jpg"]
 
-  author = "Cross Blast"
-  description = "秒で考える爆弾パズル"
+  #author = "Cross Blast"
+  #description = "A puzzle game that ends in an instant"
   avatar = "/me/me.jpg"
-  headerTitle = "Cross Blast"
+  #headerTitle = "Cross Blast"
   #motto = ""
   categoriesLimitInHeader = 6
   # headerBottomText = ""
