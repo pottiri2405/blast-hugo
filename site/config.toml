@@ -24,11 +24,11 @@ defaultContentLanguage = "ja"
 [languages]
   [languages.ja]
     baseURL = "https://blast.pottiri.tech"
-    title = "クロス・ブラスト"
+    title = "くろす・ぶらすと"
     [languages.ja.params]
-      author = "クロス・ブラスト"
+      author = "くろす・ぶらすと"
       description = "秒で終わる爆弾パズルゲーム"
-      headerTitle = "クロス・ブラスト"
+      headerTitle = "くろす・ぶらすと"
       
   [languages.en]
     baseURL = "https://blast-en.pottiri.tech"
@@ -106,3 +106,5 @@ defaultContentLanguage = "ja"
 
   # custom css
   customCSS = ["/css/customize.css"]
+
+  titleSeparator = "/bomb/red-bomb.svg"

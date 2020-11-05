@@ -38,3 +38,9 @@ footer .sub.footer {
     width: 100%;
   }
 }
+.red-bomb {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  margin: 0 !important;
+  vertical-align: middle !important;
+}
