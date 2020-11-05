@@ -1,6 +1,6 @@
-baseurl = "https://blast.pottiri.tech"
-languageCode = "ja-jp"
-languageLang = "ja"
+#baseurl = "https://blast.pottiri.tech"
+#languageCode = "ja-jp"
+#languageLang = "ja"
 title = "Cross Blast"
 theme = "dream"
 
@@ -18,6 +18,13 @@ googleAnalytics = ""
 hasCJKLanguage = true
 
 # Paginate = 4
+
+[languages]
+[languages.ja]
+baseURL = "https://blast.pottiri.tech"
+
+[languages.en]
+baseURL = "https://blast-en.pottiri.tech"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
