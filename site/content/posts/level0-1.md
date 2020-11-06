@@ -1,8 +1,8 @@
 ---
 draft: false
 title: レベル0 No.1
-date: 2020-11-07T00:00:00.287Z
-lastmod: 2020-11-07T00:00:00.308Z
+date: 2020-11-06T22:36:28.639Z
+lastmod: 2020-11-06T22:36:30.786Z
 author: Cross Blast
 cover: /img/level0-1.png
 categories:
