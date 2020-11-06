@@ -1,12 +1,12 @@
 ---
 draft: false
-title: レベル1 No.3
+title: レベル0 No.3
 date: 2020-11-07T03:00:00.083Z
 lastmod: 2020-11-07T03:00:00.107Z
 author: Cross Blast
 cover: /img/level1-3.png
 categories:
-  - レベル1
+  - レベル0
 tags:
   - 文字
 ---
