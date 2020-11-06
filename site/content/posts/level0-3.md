@@ -1,8 +1,8 @@
 ---
 draft: false
 title: レベル1 No.3
-date: 2020-11-05T12:39:26.083Z
-lastmod: 2020-11-05T12:39:26.107Z
+date: 2020-11-07T03:00:00.083Z
+lastmod: 2020-11-07T03:00:00.107Z
 author: Cross Blast
 cover: /img/level1-3.png
 categories:
