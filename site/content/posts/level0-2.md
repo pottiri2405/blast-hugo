@@ -1,8 +1,8 @@
 ---
 draft: false
 title: レベル0 No.2
-date: 2020-11-07T00:02:00.083Z
-lastmod: 2020-11-07T00:02:00.107Z
+date: 2020-11-06T22:37:28.775Z
+lastmod: 2020-11-06T22:37:30.132Z
 author: Cross Blast
 cover: /img/level0-2.png
 categories:
