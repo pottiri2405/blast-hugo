@@ -9,7 +9,7 @@ categories:
   - レベル0
 tags:
   - 文字
-  - 爽快
+  - 爽快感
 ---
 <iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-1/ja/false/level0-2" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 
