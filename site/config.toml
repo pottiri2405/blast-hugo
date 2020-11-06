@@ -24,19 +24,19 @@ defaultContentLanguage = "ja"
 [languages]
   [languages.ja]
     baseURL = "https://blast.pottiri.tech"
-    title = "くろす・ぶらすと"
+    title = "くろす×ぶらすと"
     [languages.ja.params]
-      author = "くろす・ぶらすと"
+      author = "くろす×ぶらすと"
       description = "秒で終わる爆弾パズルゲーム"
-      headerTitle = "くろす・ぶらすと"
+      headerTitle = "くろす×ぶらすと"
       
   [languages.en]
     baseURL = "https://blast-en.pottiri.tech"
-    title = "Cross Blast"
+    title = "Cross×Blast"
     [languages.en.params]
-      author = "Cross Blast"
+      author = "Cross×Blast"
       description = "A puzzle game that ends in an instant"
-      headerTitle = "Cross Blast"
+      headerTitle = "Cross×Blast"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
