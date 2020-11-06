@@ -49,17 +49,17 @@ defaultContentLanguage = "ja"
 
 [params]
   background = "#f6f6f6"
-  backgroundImage = "/me/background.jpg"
+  backgroundImage = "/background.jpg"
   linkColor = "seagreen"
 
   # dark mode
   backgroundDark = "black"
-  backgroundImageDark = "/me/background-dark.jpg"
+  backgroundImageDark = "/background-dark.jpg"
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404 = true
 
-  #images = ["me/background.jpg"]
+  #images = ["/me/background.jpg"]
 
   #author = "Cross Blast"
   #description = "A puzzle game that ends in an instant"
