@@ -8,7 +8,7 @@ cover: /img/level1-4.png
 categories:
   - レベル1
 tags:
-  - 文字
+  - 漢字
 ---
 <p><iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-4" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
