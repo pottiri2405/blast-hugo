@@ -4,3 +4,8 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
