@@ -9,7 +9,7 @@ categories:
   - レベル1
 tags: null
 ---
-<p><iframe style="height: 400px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-2/ja/level1-1/level1-3" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<p><iframe style="height: 400px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-2" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 ### ヒント
 

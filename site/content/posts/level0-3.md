@@ -8,9 +8,9 @@ cover: /img/level0-3.png
 categories:
   - レベル0
 tags:
-  - 文字
+  - 漢字
 ---
-<p><iframe style="height: 400px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-3/ja/level0-2/false" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<p><iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-3" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 ### ヒント
 
