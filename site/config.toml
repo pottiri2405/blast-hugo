@@ -30,6 +30,7 @@ defaultContentLanguage = "ja"
       description = "秒で解ける爆弾パズルゲーム"
       headerTitle = "くろす×ぶらすと"
       headerBottomText = "秒で解ける爆弾パズルゲーム"
+      twitter = "pottiripottiri"
   [languages.en]
     baseURL = "https://blast-en.pottiri.tech"
     title = "Cross×Blast"
@@ -38,6 +39,7 @@ defaultContentLanguage = "ja"
       description = "Bomb puzzle that can be solved in an instant"
       headerTitle = "Cross×Blast"
       headerBottomText = "Bomb puzzle that can be solved in an instant"
+      twitter = "pottiri_tech"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -79,7 +81,7 @@ defaultContentLanguage = "ja"
   # LEANCLOUD_APP_KEY = ""
   
   email = "pottiridoubleat@gmail.com"
-  twitter = "pottiri_tech"
+  #twitter = "pottiri_tech"
   #facebook = ""
   instagram = "pottiri_tech"
   # mastodon = ""
