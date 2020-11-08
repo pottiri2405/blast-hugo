@@ -24,18 +24,18 @@ defaultContentLanguage = "ja"
 [languages]
   [languages.ja]
     baseURL = "https://blast.pottiri.tech"
-    title = "くろす×ぶらすと"
+    title = "Cross×Blast"
     [languages.ja.params]
-      author = "くろす×ぶらすと"
+      author = "POTTIRI"
       description = "秒で解ける爆弾パズルゲーム"
-      headerTitle = "くろす×ぶらすと"
+      headerTitle = "Cross×Blast"
       headerBottomText = "秒で解ける爆弾パズルゲーム"
       twitter = "pottiripottiri"
   [languages.en]
     baseURL = "https://blast-en.pottiri.tech"
     title = "Cross×Blast"
     [languages.en.params]
-      author = "Cross×Blast"
+      author = "POTTIRI"
       description = "Bomb puzzle that can be solved in an instant"
       headerTitle = "Cross×Blast"
       headerBottomText = "Bomb puzzle that can be solved in an instant"
