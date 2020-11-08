@@ -1,8 +1,8 @@
 ---
 draft: false
 title: Level0 No.4
-date: 2020-11-08T22:39:20.366Z
-lastmod: 2020-11-08T22:39:21.566Z
+date: 2020-11-08T12:00:00.366Z
+lastmod: 2020-11-08T12:00:00.566Z
 author: Cross Blast
 cover: /img/level0-4.png
 categories:
