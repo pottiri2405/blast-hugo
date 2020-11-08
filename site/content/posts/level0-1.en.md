@@ -8,11 +8,11 @@ cover: /img/level0-1.png
 categories:
   - Level0
 tags:
-  - 文字
-  - 爽快感
+  - Exhilaration
 ---
 <iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-1" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 
 ### ヒント
 
-ちょうどいい場所におけばブロックが全部壊れます！
+Tap the square to place the red bomb.\
+If you put the red bomb in the right place, you can involve other bombs and blow up all the blocks.

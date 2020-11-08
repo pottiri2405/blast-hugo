@@ -1,17 +1,17 @@
 ---
 draft: false
-title: レベル1 No.5
+title: Level1 No.5
 date: 2020-11-06T12:39:26.083Z
 lastmod: 2020-11-06T12:39:26.107Z
 author: Cross Blast
 cover: /img/level1-5.png
 categories:
-  - レベル1
+  - Level1
 tags:
-  - アルファベット
+  - Alphabets
 ---
 <p><iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-5" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
-### ヒント
+### Hint
 
-爆風がアルファベットのどれかを描きます。
+The blast draws one of the alphabets.

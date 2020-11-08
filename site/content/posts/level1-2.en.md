@@ -13,5 +13,5 @@ tags: null
 
 ### Hint
 
-茶色いブロックは爆破できますが、そこで爆風がストップします。\
-連続した茶色いブロックを破壊するには爆風を２回当てる必要があります。
+The brown block can be blown up, but the blast stops there. \
+You need to hit the blast twice to destroy a series of brown blocks.

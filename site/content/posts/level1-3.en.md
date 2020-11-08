@@ -13,5 +13,5 @@ tags: null
 
 ### Hint
 
-爆風は斜めにも飛んでいきます。\
-茶色いブロックは一度爆風が当たると壊れるので次の爆風は通るようになります。
+The blast also travels diagonally. \
+The brown block will break once it hits the blast, so the next blast will move forward.

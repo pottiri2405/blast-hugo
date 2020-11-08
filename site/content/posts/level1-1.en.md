@@ -13,5 +13,5 @@ tags: null
 
 ### Hint
 
-爆風が爆弾に当たると誘爆して更に爆風を起こします。\
-爆風を繋げて全てのブロックを破壊してください。
+When the blast hits the bomb, it induces a blast and causes another blast.　\
+Connect the blast and destroy all the blocks.

@@ -7,10 +7,12 @@ author: Cross Blast
 cover: /img/level0-2.png
 categories:
   - Level0
-tags: null
+tags:
+  - Exhilaration
 ---
 <p><iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-2" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 ### ヒント
 
-爆風が渦を巻きます。
+Tap the square to place the red bomb.\
+Place the red bomb in the right place and the blast will swirl.

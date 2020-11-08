@@ -8,10 +8,11 @@ cover: /img/level0-3.png
 categories:
   - Level0
 tags:
-  - 文字
+  - Chinese characters
 ---
 <p><iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-3" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 ### ヒント
 
-男ならば前に進むしか無いのです。
+Tap the square to place the red bomb.\
+The blast draws Chinese characters that represent men.
