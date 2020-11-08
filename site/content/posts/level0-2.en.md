@@ -10,9 +10,9 @@ categories:
 tags:
   - Exhilaration
 ---
-<p><iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-2" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-2" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
-### ヒント
+### Hint
 
 Tap the square to place the red bomb.\
 Place the red bomb in the right place and the blast will swirl.

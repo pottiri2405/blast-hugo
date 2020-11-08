@@ -10,7 +10,7 @@ categories:
 tags:
   - Exhilaration
 ---
-<iframe style="height: 100vh;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-1" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-1" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
 
 ### ヒント
 
