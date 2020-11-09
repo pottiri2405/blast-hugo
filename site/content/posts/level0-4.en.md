@@ -10,7 +10,7 @@ categories:
 tags:
   - Chinese characters
 ---
-<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-4" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-4/en" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 ### Hint
 
