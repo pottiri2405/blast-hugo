@@ -28,6 +28,15 @@
 <!-- Site Author & Description -->
 <meta name="author" content="{{ .Site.Params.author }}" />
 <meta name="description" content="{{ .Site.Params.description }}" />
+<meta itemprop="title" content="{{ .Site.Params.headerTitle }}">
+<meta itemprop="image" content="{{ .Site.Params.avatar | absURL }}">
+<meta property="og:site_name" content="{{ .Site.Params.headerTitle }}">
+<meta property="og:image" content="{{ .Site.Params.avatar | absURL }}">
+<meta property="og:image:alt" content="{{ .Site.Params.headerTitle }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{{ .Site.Params.avatar | absURL }}">
+<meta name="twitter:title" content="{{ .Site.Params.headerTitle }}">
+<meta name="twitter:description" content="{{ .Site.Params.description }}">
 {{ end }}
 
 <!-- Site Generator -->
