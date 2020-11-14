@@ -1,8 +1,8 @@
 ---
 draft: false
 title: レベル1 No.7
-date: 2020-13-08T12:39:26.083Z
-lastmod: 2020-13-08T12:39:26.107Z
+date: 2020-11-13T12:39:26.083Z
+lastmod: 2020-11-13T12:39:26.107Z
 author: Cross Blast
 cover: /img/level1-7.png
 categories:
