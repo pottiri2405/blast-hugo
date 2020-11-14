@@ -9,7 +9,7 @@ theme = "dream"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 #disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-# googleAnalytics = "UA-116125280-1"
+googleAnalytics = "UA-116125280-1"
 
 # disqusShortname = ""
 
@@ -25,7 +25,7 @@ defaultContentLanguage = "ja"
   [languages.ja]
     baseURL = "https://blast.pottiri.tech"
     title = "Cross×Blast"
-    googleAnalytics = "G-NJZ8Y84G58"
+    # googleAnalytics = "G-NJZ8Y84G58"
     [languages.ja.params]
       author = "POTTIRI"
       description = "秒で解ける爆弾パズルゲーム"
@@ -35,7 +35,7 @@ defaultContentLanguage = "ja"
   [languages.en]
     baseURL = "https://blast-en.pottiri.tech"
     title = "Cross×Blast"
-    googleAnalytics = "G-43K5X5SZ7L"    
+    # googleAnalytics = "G-43K5X5SZ7L"    
     [languages.en.params]
       author = "POTTIRI"
       description = "Bomb puzzle that can be solved in an instant"
