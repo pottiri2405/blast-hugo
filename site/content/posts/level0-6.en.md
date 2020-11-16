@@ -11,7 +11,5 @@ tags:
 ---
 <p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-6/en" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
-### Hint
-
-Purple enemies also disappear when hit by a blast. \
-The blast does not stop even when it hits a purple enemy.
+There is nothing particularly difficult. \
+Please destroy it to your heart's content.

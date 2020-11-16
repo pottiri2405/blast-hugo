@@ -11,5 +11,5 @@ tags:
 ---
 <p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level0-6/ja" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
-There is nothing particularly difficult. \
-Please destroy it to your heart's content.
+特に変わったところはありません。 \
+全部ぶっ飛ばしてください！
