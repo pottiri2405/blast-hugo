@@ -6,7 +6,7 @@ lastmod: 2020-11-14T12:39:26.107Z
 author: Cross Blast
 cover: /img/level1-8.png
 categories:
-  - レベル8
+  - レベル1
 tags:
   - タイミング
 ---
