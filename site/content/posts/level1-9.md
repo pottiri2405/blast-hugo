@@ -8,7 +8,7 @@ cover: /img/level1-9.png
 categories:
   - レベル1
 tags:
-  - タイミング
+  - 動く敵
 ---
 <p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-9/ja" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 

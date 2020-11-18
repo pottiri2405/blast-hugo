@@ -112,4 +112,4 @@ defaultContentLanguage = "ja"
   # custom css
   customCSS = ["/css/customize.css"]
 
-  titleSeparator = "/bomb/red-bomb.svg"
+  titleSeparator = "/img/characters/red-bomb.svg"
