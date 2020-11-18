@@ -10,8 +10,9 @@ categories:
 tags:
   - 動く爆弾
 ---
-<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-10/ja" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level1-11/ja" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 青い敵は横に動きます。 \
 紫の敵は動きません。 \
-青い爆弾は縦に動きますが、紫の敵をすり抜けることはできないので真ん中３つを行った来たりします。
+青い爆弾は縦に動きますが、紫の敵をすり抜けることはできないので真ん中３つを行った来たりします。 \
+数秒待つとベストなタイミングが見えてくるはずです。
