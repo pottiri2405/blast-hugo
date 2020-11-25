@@ -9,6 +9,6 @@ categories:
   - レベル2
 tags:
 ---
-<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/blast/level2-4/ja" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<p><iframe style="height: 450px;" src="//fervent-lumiere-0e0ee3.netlify.app/#/combine/level2-4/ja" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
 
 開発中
